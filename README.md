@@ -1,0 +1,1 @@
+# Detect-Bear-Brand-Logo
