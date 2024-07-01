@@ -1,0 +1,16 @@
+model-count-Beer-Humman/CLIP
+
+*/idea/*
+*/.idea/*
+*/.idea
+*/.venv/*
+*/.venv
+
+*/*.pt
+*/*.h5
+
+*/*.zip
+
+model-lemotion/AffectNet
+
+yolov9-main
