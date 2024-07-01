@@ -14,3 +14,5 @@ model-count-Beer-Humman/CLIP
 model-lemotion/AffectNet
 
 yolov9-main
+
+Angel-Hackathon-2024-main/model/*.pt
